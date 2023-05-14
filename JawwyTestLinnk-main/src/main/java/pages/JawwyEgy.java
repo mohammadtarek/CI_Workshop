@@ -63,6 +63,7 @@ public class JawwyEgy {
      return  isDisplayed;
  }
 
+
   // Lite Plan Cost functions
 
   public Boolean   litePlanCostIsDisplayed(){
